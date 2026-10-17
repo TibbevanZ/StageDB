@@ -69,21 +69,11 @@ After the front matter, include:
 
 ---
 
-## 4. Mandatory Step: Log in Contributors
+## 4. Optional Step: Log in Contributors
 
-Whenever you add or modify any files, you **must** record your contribution in `content/01 Contributors/contributors.md`:
+Whenever you add or modify any files, you can record your contribution in `content/01 Contributors/contributors.md`:
 
-1. Add your name/GitHub handle to the **Contributors** list (if not already listed).
-2. Add an entry under **Contribution Log** noting:
-   - **Date** (YYYY-MM-DD)
-   - **Your Name / GitHub username**
-   - **Files modified or added**
-   - **Brief description of changes**
-
-### Example:
-```markdown
-- **2026-10-17** - [@TibbevanZ](https://github.com/TibbevanZ): Added `content/02 Microphones/shure-sm7b.md` and `images/shure-sm7b/sm7b.jpg`.
-```
+Add your name/GitHub handle to the **Contributors** list (if not already listed).
 
 ---
 
