@@ -1,23 +1,32 @@
 ---
 title: Contributors
-type: Community & Project Information
-specs:
-  Maintainer: Tibbe
-  Rules: See Contribution Guidelines
+type: Community
+maintainer: Tibbe
 ---
+
 # Contributors
 
-Thank you to everyone contributing to StageDB!
+StageDB is an open-source knowledge base for professional entertainment technology.
 
-## Maintainers
-- **Tibbe** ([@TibbevanZ](https://github.com/TibbevanZ)) — Project founder & lead maintainer
-
-## Contributors
-*(Awaiting first community contributions!)*
+Everyone is welcome to contribute, whether it's fixing specifications, adding equipment, improving documentation, or correcting mistakes.
 
 ---
 
-## Contribution Log
-> When adding or modifying files, add an entry below with the date, your username, and the files you touched. See the [[Contribution Guidelines]] for full details.
+## Maintainer
 
-*No contributions logged yet.*
+- **Tibbe** ([@TibbevanZ](https://github.com/TibbevanZ))
+  - Founder
+  - Lead Maintainer
+  - Reviewer
+
+---
+
+## Community Contributors
+
+No community contributions yet.
+
+Want to be the first? Check the [[Contribution Guidelines]] and open a Pull Request!
+
+---
+
+Thank you to everyone who helps make StageDB more accurate, complete, and useful for the live events industry.
