@@ -89,8 +89,18 @@ Whenever you add or modify any files, you **must** record your contribution in `
 
 ## 5. Submission Workflow
 
-1. Fork the repository and create a feature branch (`git checkout -b feature/gear-name`).
-2. Add your equipment Markdown file and corresponding images.
-3. Update `content/01 Contributors/contributors.md` with your contribution log entry.
-4. Verify files follow the naming conventions (lowercase slugs with hyphens for files: e.g. `yamaha-cl5.md`).
-5. Commit and open a Pull Request against `main`.
+1. Fork the repository on GitHub: [TibbevanZ/StageDB](https://github.com/TibbevanZ/StageDB)
+2. Create a feature branch (`git checkout -b feature/gear-name`).
+3. Add your equipment Markdown file and corresponding images.
+4. Update `content/01 Contributors/contributors.md` with your contribution log entry.
+5. Verify files follow the naming conventions (lowercase slugs with hyphens for files: e.g. `yamaha-cl5.md`).
+6. Commit and open a Pull Request against `main`.
+
+---
+
+## Ready to Contribute?
+
+- **Fork & Clone**: [GitHub Repository (TibbevanZ/StageDB)](https://github.com/TibbevanZ/StageDB)
+- **Start a Contribution**: [Create a new Pull Request](https://github.com/TibbevanZ/StageDB/pulls)
+- **Report Missing Data or Bugs**: [Open an Issue](https://github.com/TibbevanZ/StageDB/issues)
+
