@@ -1,6 +1,5 @@
 ---
-title: 01. Speakers Overview
-brand: StageDB
+title: 01 Speakers Overview
 type: Category Overview
 specs:
   Scope: Point-Source Loudspeakers & Stage Monitors

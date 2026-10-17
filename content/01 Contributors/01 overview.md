@@ -1,6 +1,5 @@
 ---
-title: 01. Contributors Overview
-brand: StageDB
+title: 01 Contributors Overview
 type: Category Overview
 specs:
   Scope: Project contributors & maintainers

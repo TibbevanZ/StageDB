@@ -1,6 +1,5 @@
 ---
-title: 01. Mixers Overview
-brand: StageDB
+title: 01 Mixers Overview
 type: Category Overview
 specs:
   Scope: Audio Mixing Consoles & Desks

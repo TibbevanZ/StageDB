@@ -1,6 +1,5 @@
 ---
-title: 01. Stageboxes Overview
-brand: StageDB
+title: 01 Stageboxes Overview
 type: Category Overview
 specs:
   Scope: Digital Stage Boxes & Remote I/O

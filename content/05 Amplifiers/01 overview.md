@@ -1,6 +1,5 @@
 ---
-title: 01. Amplifiers Overview
-brand: StageDB
+title: 01 Amplifiers Overview
 type: Category Overview
 specs:
   Scope: Power Amplifiers & System Processors

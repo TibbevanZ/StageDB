@@ -1,6 +1,5 @@
 ---
-title: 01. Subwoofers Overview
-brand: StageDB
+title: 01 Subwoofers Overview
 type: Category Overview
 specs:
   Scope: Low-Frequency Loudspeakers & Subs

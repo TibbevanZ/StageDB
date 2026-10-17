@@ -1,6 +1,5 @@
 ---
-title: 01. Microphones Overview
-brand: StageDB
+title: 01 Microphones Overview
 type: Category Overview
 specs:
   Scope: Microphones & Transducers

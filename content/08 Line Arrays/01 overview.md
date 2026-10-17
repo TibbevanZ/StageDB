@@ -1,6 +1,5 @@
 ---
-title: 01. Line Arrays Overview
-brand: StageDB
+title: 01 Line Arrays Overview
 type: Category Overview
 specs:
   Scope: Modular Line Source Systems
