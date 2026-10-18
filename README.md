@@ -406,4 +406,4 @@ The SM57 is a dynamic cardioid microphone used mostly to close-mic instruments a
 
 Unsure about something in this guide, or missing a category or spec? Open an **issue** in the repo. You can also just start with a draft pull request, and the maintainers will think along.
 
-**Content licence:** _(maintainer: fill in the licence here, and add that contributors confirm they have the rights to what they submit.)_
+
